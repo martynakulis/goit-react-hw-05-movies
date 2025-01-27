@@ -1,0 +1,22 @@
+.goBack {
+  margin: 10px;
+  font-size: 15px;
+}
+
+.infoBox {
+  margin-left: 10px;
+  display: flex;
+}
+.image {
+  width: 200px;
+  height: 300px;
+}
+.info {
+  margin-left: 20px;
+}
+.genre {
+  margin-left: 5px;
+}
+.otherInfo {
+  margin-left: 10px;
+}

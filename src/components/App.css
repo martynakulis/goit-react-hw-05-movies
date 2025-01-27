@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+a {
+  color: currentColor;
+}
+.active {
+  color: #7b043b;
+}

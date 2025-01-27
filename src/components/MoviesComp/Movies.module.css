@@ -1,0 +1,27 @@
+.form {
+  margin: 10px;
+}
+.input {
+  width: 300px;
+  min-height: 30px;
+  border: 1px solid grey;
+  padding-left: 8px;
+}
+.input:focus {
+  outline-color: #7b043b;
+  outline-width: thin;
+}
+.formButton {
+  display: inline-block;
+  min-height: 30px;
+  background-color: white;
+  color: black;
+  padding-left: 8px;
+  padding-right: 8px;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+.formButton:hover {
+  border: 1px solid #7b043b;
+  color: #7b043b;
+}
